@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nimas1377
+- 👀 I’m interested in linux and coding 
+- 🌱 I’m currently learning python
